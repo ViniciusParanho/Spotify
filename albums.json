@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Random Access Memories",
+        "artist": "Daft Punk",
+        "releaseYear": 2013,
+        "genre": "Electronic",
+        "imageSrc": "https://example.com/images/random_access_memories.jpg",
+        "tracks": 13
+    },
+    {
+        "title": "Abbey Road",
+        "artist": "The Beatles",
+        "releaseYear": 1969,
+        "genre": "Rock",
+        "imageSrc": "https://example.com/images/abbey_road.jpg",
+        "tracks": 17
+    },
+    {
+        "title": "To Pimp a Butterfly",
+        "artist": "Kendrick Lamar",
+        "releaseYear": 2015,
+        "genre": "Hip-Hop",
+        "imageSrc": "https://example.com/images/to_pimp_a_butterfly.jpg",
+        "tracks": 16
+    },
+    {
+        "title": "1989",
+        "artist": "Taylor Swift",
+        "releaseYear": 2014,
+        "genre": "Pop",
+        "imageSrc": "https://example.com/images/1989.jpg",
+        "tracks": 13
+    },
+    {
+        "title": "The Dark Side of the Moon",
+        "artist": "Pink Floyd",
+        "releaseYear": 1973,
+        "genre": "Progressive Rock",
+        "imageSrc": "https://example.com/images/dark_side_of_the_moon.jpg",
+        "tracks": 10
+    },
+    {
+        "title": "Thriller",
+        "artist": "Michael Jackson",
+        "releaseYear": 1982,
+        "genre": "Pop",
+        "imageSrc": "https://example.com/images/thriller.jpg",
+        "tracks": 9
+    },
+    {
+        "title": "Back to Black",
+        "artist": "Amy Winehouse",
+        "releaseYear": 2006,
+        "genre": "Soul",
+        "imageSrc": "https://example.com/images/back_to_black.jpg",
+        "tracks": 11
+    },
+    {
+        "title": "Nevermind",
+        "artist": "Nirvana",
+        "releaseYear": 1991,
+        "genre": "Grunge",
+        "imageSrc": "https://example.com/images/nevermind.jpg",
+        "tracks": 12
+    },
+    {
+        "title": "Good Kid, M.A.A.D City",
+        "artist": "Kendrick Lamar",
+        "releaseYear": 2012,
+        "genre": "Hip-Hop",
+        "imageSrc": "https://example.com/images/good_kid_maad_city.jpg",
+        "tracks": 12
+    },
+    {
+        "title": "Rumours",
+        "artist": "Fleetwood Mac",
+        "releaseYear": 1977,
+        "genre": "Rock",
+        "imageSrc": "https://example.com/images/rumours.jpg",
+        "tracks": 11
+    }
+]
